@@ -6,11 +6,11 @@ image: /assets/img/about.jpg
 ---
 ## About the FFB
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+The Federal Financing Bank (FFB) is a government corporation, created by Congress in 1973 under the general supervision of the Secretary of the Treasury.  The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities. Today the FFB has statutory authority to purchase any obligation issued, sold, or guaranteed by a federal agency to ensure that fully guaranteed obligations are financed efficiently.
 
 ### Mission
 
-The mission of the Federal Financing Bank is to deliver the best value for centralizing and reducing the cost of federal borrowing, as well as federally-assisted borrowing from the public.
+The mission of the Federal Financing Bank is to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public.
 
 ### History
 
