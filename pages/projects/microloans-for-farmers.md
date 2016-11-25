@@ -9,10 +9,9 @@ abstract: /assets/files/microloans-for-farmers.pdf
 ---
 #### 
 
-| 2016   |
+| 2016      |
 |-----------|
-
-| January  |
+| January   |
 | February  |
 | March     |
 | April     |
