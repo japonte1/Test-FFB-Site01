@@ -7,10 +7,12 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: 'https://www.flickr.com/photos/usdagov'
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
-#### 2016
+#### 
 
-| January   |
+| 2016   |
 |-----------|
+
+| January  |
 | February  |
 | March     |
 | April     |
@@ -23,7 +25,7 @@ abstract: /assets/files/microloans-for-farmers.pdf
 | November  |
 | December  |
 
- 2015 (Zip File)
+2015 (Zip File)
 
 2014 (Zip File)
 
