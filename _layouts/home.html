@@ -37,18 +37,3 @@ layout: base
   </div>
 </section>
 {% endif %}
-
-<section class="content">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
-      {{ content }}
-      <div class="center-content">
-        {% if page.content-button-link %}
-          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        {% endif %}
-      </div>  
-    </div>
-  </div>
-</section>
-
-{% include contact.html %}
