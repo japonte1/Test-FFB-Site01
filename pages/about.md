@@ -4,9 +4,7 @@ title: About Us
 permalink: /about/
 image: /assets/img/about.jpg
 ---
-## About the FFB
-
-The Federal Financing Bank (FFB) is a government corporation, created by Congress in 1973 under the general supervision of the Secretary of the Treasury.  The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities. Today the FFB has statutory authority to purchase any obligation issued, sold, or guaranteed by a federal agency to ensure that fully guaranteed obligations are financed efficiently.
+The Federal Financing Bank (FFB) is a government corporation, created by Congress in 1973 under the general supervision of the Secretary of the Treasury. Today the FFB has statutory authority to purchase any obligation issued, sold, or guaranteed by a federal agency to ensure that fully guaranteed obligations are financed efficiently.
 
 ### Mission
 
