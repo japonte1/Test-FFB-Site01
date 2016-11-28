@@ -14,4 +14,4 @@ The mission of the Federal Financing Bank is to centralize and reduce the cost o
 
 The FFB was established to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public. The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities.
 
-\[Public Law No. 93-224 The Federal Financing Bank Act of 1973\]({{ '/assets/files/1973act.pdf' | prepend: site.baseurl }})
+[Public Law No. 93-224 The Federal Financing Bank Act of 1973]({{site.baseurl}}/assets/files/1973act.pdf)
