@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Servicemember TSP Enrollment
-permalink: /projects/tsp-enrollment/
+title: Annual Reports
+permalink: /reports/annual-reports/
 tags: project
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
 abstract: /assets/files/servicemember-tsp-enrollment.pdf
