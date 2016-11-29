@@ -12,9 +12,7 @@ image: /assets/img/about.jpg
 | U.S. Department of the Treasury   |
 | 1500 Pennsylvania Avenue, NW  |
 | Washington, D.C. 20220     |
-
 ||
-|-----------|
 | Phone: 202 622-2470   |
 | Fax: 202 622-0707  |
 | E-mail: FFB@do.treas.gov     |
