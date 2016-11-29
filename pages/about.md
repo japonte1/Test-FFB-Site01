@@ -8,11 +8,11 @@ The Federal Financing Bank (FFB) is a government corporation, created by Congres
 
 ### Mission
 
-The mission of the Federal Financing Bank is to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public.
+The mission of the FFB is to reduce the costs of Federal and federally assisted borrowings, to coordinate such borrowings with the Government’s overall fiscal policy, and to ensure that such borrowings are done in ways that least disrupt private markets. To accomplish this mission, the FFB exercises its broad statutory authority to purchase obligations issued, sold, or guaranteed by Federal agencies.
 
 ### History
 
-The FFB was established to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public. The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities.
+The FFB was established by Congress in 1973 to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public. The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities.
 
 **Corporate Documents**
 
