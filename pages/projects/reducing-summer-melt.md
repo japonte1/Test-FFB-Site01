@@ -9,7 +9,7 @@ abstract: /assets/files/reducing-summer-melt.pdf
 ---
 ### Financial Statements - Federal Financing Bank (FFB)
 
-Please see the most recent financial statements for the Federal Financing Bank located below. These financial statements provide The FFB takes pride in providing timely, reliable and meaningful information to all its stakeholders.
+Please see the most recent financial statements for the Federal Financing Bank located below:
 
  - [FY 2016 and FY2015 Financial Statement]({{site.baseurl}}/assets/files/FY2016.pdf)
  - [FY 2015 and FY2014 Financial Statement]({{site.baseurl}}/assets/files/FY2015.pdf)
