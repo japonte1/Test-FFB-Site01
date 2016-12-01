@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Most Recent Financial Statements
+title: Financial Statements
 permalink: /reports/most-recent-financial-statements/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
