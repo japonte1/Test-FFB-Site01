@@ -23,24 +23,19 @@ abstract: /assets/files/microloans-for-farmers.pdf
 | November  |
 | December  |
 
-2015 (Zip File)
+| Previous Years (Zip Files)     |
+|-----------|
+| 2015    |
+| 2014  |
+| 2013     |
+| 2012    |
+| 2011       |
+| 2010      |
+| 2009     |
+| 2008    |
+| 2007 |
+| 2006   |
+| 2005  |
+| 2005  |
 
-2014 (Zip File)
 
-2013 (Zip File)
-
-2012 (Zip File)
-
-2011 (Zip File)
-
-2010 (Zip File)
-
-2009 (Zip File)
-
-2008 (Zip File)
-
-2007 (Zip File)
-
-2006 (Zip File)
-
-2005 (Zip File)
