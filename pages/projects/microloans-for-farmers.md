@@ -20,7 +20,7 @@ abstract: /assets/files/microloans-for-farmers.pdf
 | August    |
 | September |
 | October   |
-| November  |
+| [November]({{site.baseurl}}/assets/files/bylaws.pdf)  |
 | December  |
 
 | Previous Years (Zip Files)     |
