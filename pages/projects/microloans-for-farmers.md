@@ -7,7 +7,6 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
-#### 
 
 | 2016      |
 |-----------|
