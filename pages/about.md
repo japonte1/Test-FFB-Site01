@@ -20,4 +20,5 @@ The FFB was established by Congress in 1973 to centralize and reduce the cost of
  - [FFB Bylaws]({{site.baseurl}}/assets/files/bylaws.pdf)
  - [FFB Operations]({{site.baseurl}}/assets/files/bankops.pdf)
  - [FFB Lending Policy]({{site.baseurl}}/assets/files/lendingpolicy.pdf)
- - [FFB Borrowing Policy]({{site.baseurl}}/assets/files/borrowingpolicy.pdf)  
+ - [FFB Borrowing Policy]({{site.baseurl}}/assets/files/borrowingpolicy.pdf) 
+ - [FFB Borrowing Policy 2]({{site.baseurl}}/assets/files/borrowingpolicy.pdf) 
