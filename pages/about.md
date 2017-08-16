@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About the FFB
 permalink: /about/
 image: /assets/img/about.jpg
 ---
