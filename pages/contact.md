@@ -14,6 +14,5 @@ image: /assets/img/about.jpg
 | Washington, D.C. 20220     |
 ||
 | Phone: 202 622-2470   |
-| Fax: 202 622-0707  |
-| E-mail: FFB@do.treas.gov     |
+| E-mail: FFB@treasury.gov     |
 
