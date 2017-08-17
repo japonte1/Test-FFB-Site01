@@ -4,19 +4,24 @@ title: About the FFB
 permalink: /about/
 image: /assets/img/about.jpg
 ---
-The Federal Financing Bank (FFB) is a government corporation, created by Congress in 1973 under the general supervision of the Secretary of the Treasury. Today the FFB has statutory authority to purchase any obligation issued, sold, or guaranteed by a federal agency to ensure that fully guaranteed obligations are financed efficiently.
+Congress created the Federal Financing Bank (FFB) as a government corporation and an instrumentality of the United States under the general supervision and direction of the Secretary of the Treasury.
 
-### Mission
+The FFB provides financing to help Federal agencies manage their borrowing and lending programs, and to ensure that all Federal Government borrowing from the public is conducted through the Treasury and not through program agencies.  
 
-The mission of the FFB is to reduce the costs of Federal and federally assisted borrowings, to coordinate such borrowings with the Government’s overall fiscal policy, and to ensure that such borrowings are done in ways that least disrupt private markets. To accomplish this mission, the FFB exercises its broad statutory authority to purchase obligations issued, sold, or guaranteed by Federal agencies.
+Congress gave the FFB the authority to purchase any obligation issued, sold, or guaranteed by a Federal agency.
 
-### History
+ - Purchasing an obligation “issued” by a Federal agency means making a direct loan to a Federal agency with authority to borrow.  
 
-The FFB was established by Congress in 1973 to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public. The FFB was also established to deal with federal budget management issues which occurred when off-budget financing flooded the government securities market with offers of a variety of government-backed securities that were competing with Treasury securities.
+ - Purchasing an obligation “sold” by a Federal agency means buying an asset from the agency’s balance sheet, such as a loan made and held by the agency.
+
+ - Purchasing an obligation “guaranteed” by a Federal agency means making a loan, typically to a private sector party, with a guarantee from the agency to pay all or part of the principal or interest.
+
+The FFB’s activities are included in the Budget of the United States and consolidated into the Financial Report of the United States.  
+
 
 
 ### Corporate Documents
- - [Public Law No. 93-224 The Federal Financing Bank Act of 1973]({{site.baseurl}}/assets/files/1973act.pdf)
+ - [Public Law No. 93-224, The Federal Financing Bank Act of 1973]({{site.baseurl}}/assets/files/1973act.pdf)
  - [FFB Bylaws]({{site.baseurl}}/assets/files/bylaws.pdf)
  - [FFB Operations]({{site.baseurl}}/assets/files/bankops.pdf)
  - [FFB Lending Policy]({{site.baseurl}}/assets/files/lendingpolicy.pdf)
