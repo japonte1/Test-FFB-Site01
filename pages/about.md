@@ -10,7 +10,7 @@ The FFB provides financing to help Federal agencies manage their borrowing and l
 
 Congress gave the FFB the authority to purchase any obligation issued, sold, or guaranteed by a Federal agency.
 
- - Purchasing an obligation “issued” by a Federal agency means making a direct loan to a Federal agency with authority to borrow.  
+- Purchasing an obligation “issued” by a Federal agency means making a direct loan to a Federal agency with authority to borrow.  
 
  - Purchasing an obligation “sold” by a Federal agency means buying an asset from the agency’s balance sheet, such as a loan made and held by the agency.
 
