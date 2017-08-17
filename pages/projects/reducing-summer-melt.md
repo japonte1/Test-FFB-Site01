@@ -7,7 +7,6 @@ image: /assets/img/project-images/summer-melt.jpg
 
 abstract: /assets/files/reducing-summer-melt.pdf
 ---
-### Financial Statements - Federal Financing Bank (FFB)
 
 Please see the most recent financial statements for the Federal Financing Bank located below:
 
