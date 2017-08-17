@@ -10,7 +10,7 @@ banner-heading: 'Congress created the Federal Financing Bank (FFB) in 1973 to he
 The mission of the FFB is to coordinate these programs with the overall economic and fiscal policies of the Government, to reduce the costs of Federal and federally-assisted borrowings from the public, and to assure that such borrowings are financed in a manner least disruptive of private financial markets and institutions.'
 banner-text: ''
 
-banner-button-link: /about/
+
 ---
 The Federal Financing Bank (FFB) is a government corporation, created by Congress in 1973 under the general supervision of the Secretary of the Treasury. The FFB was established to centralize and reduce the cost of federal borrowing, as well as federally-assisted borrowing from the public.
 
