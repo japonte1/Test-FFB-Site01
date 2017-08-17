@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact the FFB
 permalink: /contact/
 image: /assets/img/about.jpg
 ---
