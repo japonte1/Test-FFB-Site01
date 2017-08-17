@@ -5,7 +5,9 @@ hero-image: /assets/img/feature-background.jpg
 hero-text: 'Welcome to the Federal Financing Bank '
 hero-button-text: 'About the FFB'
 hero-button-link: /about/
-banner-heading: 'Congress created the Federal Financing Bank (FFB) in 1973 to help meet the demand for funds through Federal and federally-assisted borrowing programs, and to coordinate such borrowings with overall Federal fiscal and debt management policies.  The mission of the FFB is to coordinate these programs with the overall economic and fiscal policies of the Government, to reduce the costs of Federal and federally-assisted borrowings from the public, and to assure that such borrowings are financed in a manner least disruptive of private financial markets and institutions.'
+banner-heading: 'Congress created the Federal Financing Bank (FFB) in 1973 to help meet the demand for funds through Federal and federally-assisted borrowing programs, and to coordinate such borrowings with overall Federal fiscal and debt management policies.  
+
+The mission of the FFB is to coordinate these programs with the overall economic and fiscal policies of the Government, to reduce the costs of Federal and federally-assisted borrowings from the public, and to assure that such borrowings are financed in a manner least disruptive of private financial markets and institutions.'
 banner-text: ''
 banner-button-text: ''
 banner-button-link: /about/
