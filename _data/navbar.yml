@@ -1,7 +1,7 @@
 
 assigned:
     - {text: Home, href: pages/home.md, permalink: /, show_in_menu: true, show_in_footer: false}
-    - {text: 'About the FFB', href: pages/about.md, permalink: /about/, show_in_menu: true, show_in_footer: false}
+    - {text: 'About the FFB2', href: pages/about.md, permalink: /about/, show_in_menu: true, show_in_footer: false}
     - {text: 'FFB Reports', href: pages/projects.md, permalink: /reports/, show_in_menu: true, show_in_footer: false, children: [{text: 'Microloans for Farmers', href: pages/projects/microloans-for-farmers.md, show_in_menu: false, show_in_footer: false}, {text: 'Reducing Summer Melt', href: pages/projects/reducing-summer-melt.md, show_in_menu: false, show_in_footer: false}, {text: 'Roth TSP Enrollment', href: pages/projects/roth-tsp-enrollment.md, show_in_menu: false, show_in_footer: false}]}
     - {text: 'Monthly Activity Reports', href: _data/projects.yml, show_in_menu: false, show_in_footer: false}
     - {text: 'Contact the FFB', href: pages/contact.md, permalink: /contact/, show_in_menu: true, show_in_footer: false}
