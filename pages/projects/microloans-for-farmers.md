@@ -10,15 +10,15 @@ abstract: /assets/files/microloans-for-farmers.pdf
 
 | 2017      |
 |-----------|
-| January   |
-| February  |
-| March     |
-| April     |
-| May       |
-| June      |
-| July      |
-| August    |
-| September |
+| [January]({{site.baseurl}}/assets/files/Press_Release_2017_January.pdf)   |
+| [February]({{site.baseurl}}/assets/files/Press_Release_2017_February.pdf)  |
+| [March]({{site.baseurl}}/assets/files/Press_Release_2017_March.pdf)     |
+| [April]({{site.baseurl}}/assets/files/Press_Release_2017_April.pdf)     |
+| [May]({{site.baseurl}}/assets/files/Press_Release_2017_May.pdf)       |
+| [June]({{site.baseurl}}/assets/files/Press_Release_2017_June.pdf)     |
+| [July]({{site.baseurl}}/assets/files/Press_Release_2017_July.pdf)      |
+| [August]({{site.baseurl}}/assets/files/Press_Release_2017_August.pdf)    |
+| [September]({{site.baseurl}}/assets/files/Press_Release_2017_September.pdf) |
 | October   |
 | November  |
 | December  |
