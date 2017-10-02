@@ -12,12 +12,12 @@ colors:
     background: '#0071bc'
     hover: '#3e94cf'
     text: '#fff'
-  headers: '#367e46'
+  headers: '#205943'
   text: '#212121'
   projects:
     accent: '#02bfe7'
   banner:
-    background: '#112e51'
+    background: '#367e46'
     text: '#fff'
     button:
       background: '#dce4ef'
