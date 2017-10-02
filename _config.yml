@@ -12,7 +12,7 @@ colors:
     background: '#0071bc'
     hover: '#3e94cf'
     text: '#fff'
-  headers: '#205493'
+  headers: '#367e46'
   text: '#212121'
   projects:
     accent: '#02bfe7'
