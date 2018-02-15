@@ -4,8 +4,6 @@ title: Monthly Activity Reports
 permalink: /reports/monthly-activity-reports/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
-
-abstract: /assets/files/microloans-for-farmers.pdf
 ---
 
 | 2017      |
