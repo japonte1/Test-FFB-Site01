@@ -17,6 +17,9 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 | [July]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_July.pdf)   |
 | [August]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_August.pdf)   |
 | [September]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_September.pdf)   |
+| [October]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_October.pdf)   |
+| [November]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2018_November.pdf)   |
+
 
 | 2017      |
 |-----------|
