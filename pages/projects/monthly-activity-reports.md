@@ -5,6 +5,9 @@ permalink: /reports/monthly-activity-reports/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 ---
+| 2022      |
+|-----------|
+| [January]({{site.baseurl}}/assets/files/Monthly_Activity_Report_2022_January.pdf)   |
 
 | 2021      |
 |-----------|
